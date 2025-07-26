@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- saved from url=(0052)file:///C:/Users/Lamoge/Desktop/Naturalismo.html#top -->
 <html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
